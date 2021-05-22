@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>638118165764-naromb05nh0l0n91rr0bhaepuocbd0ns.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.638118165764-naromb05nh0l0n91rr0bhaepuocbd0ns</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-bWW9igqZXUjkN4CsKPqft-A3cFfMXfc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>638118165764</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.maxfitness.maxfit</string>
+	<key>PROJECT_ID</key>
+	<string>maxfit-dev-86f36</string>
+	<key>STORAGE_BUCKET</key>
+	<string>maxfit-dev-86f36.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:638118165764:ios:6dccb1141d36a5a1e82451</string>
+</dict>
+</plist>

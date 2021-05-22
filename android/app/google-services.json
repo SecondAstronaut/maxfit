@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638118165764",
+    "project_id": "maxfit-dev-86f36",
+    "storage_bucket": "maxfit-dev-86f36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638118165764:android:c1d1290afec4c6c7e82451",
+        "android_client_info": {
+          "package_name": "com.maxfitness.maxfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638118165764-b5774i1r2lt0f3iq9rajb2d9nn975gdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGJY3AxJ2b_rdEd-L8H_ETK0cg1Z7rqUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638118165764-b5774i1r2lt0f3iq9rajb2d9nn975gdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
