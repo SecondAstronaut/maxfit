@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:maxfit/screens/add_workout.dart';
 import 'package:maxfit/services/authorization.dart';
 import 'package:maxfit/components/components.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
@@ -40,6 +41,14 @@ class _HomePageState extends State<HomePage> {
       // Аналог прердыдущего bottomNavigationBar, только с использованием package'a
       // CurvedNavigationBar
       bottomNavigationBar: bottomNavBar(),
+      floatingActionButton: FloatingActionButton(
+        child: Icon(Icons.add),
+        backgroundColor: Colors.white,
+        foregroundColor: Theme.of(context).primaryColor,
+        onPressed: () {
+          Navigator.push(context, MaterialPageRoute(builder: (ctx) => AddWorkout()));
+        },
+      ),
       // Нижний навигационный бар
       // bottomNavigationBar: BottomNavigationBar(
       //   items: const <BottomNavigationBarItem>[

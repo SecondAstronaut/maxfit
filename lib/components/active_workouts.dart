@@ -6,7 +6,15 @@ class ActiveWorkouts extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Text('TBD')
+      child: Center(
+        child: Text(
+          'Active workouts',
+          style: TextStyle(
+            color: Theme.of(context).textTheme.headline6.color,
+            fontSize: 24,
+          ),
+        ),
+      ),
     );
   }
 }
